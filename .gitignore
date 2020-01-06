@@ -102,3 +102,5 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
+bin-int/
+bin/
